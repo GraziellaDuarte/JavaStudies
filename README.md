@@ -1,3 +1,3 @@
 # JavaStudies
 
-Repository created for python studies
+🚧 Repository created for java studies🚧 
